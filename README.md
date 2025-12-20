@@ -41,3 +41,6 @@ dependencies {
     // outras dependências...
 }
 ```
+
+# Reference projects
+https://github.com/android/nowinandroid/tree/main/build-logic
